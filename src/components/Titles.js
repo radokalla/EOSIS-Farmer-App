@@ -5,11 +5,12 @@ class Titles extends React.Component {
             <div>
               <h1 className="title-container__title">Global Cooperative</h1>
               <p className="title-container__subtitle">
-              Efficient Exchange for Local Commodities
+              Efficient Exchange for Local Goods
               </p>
               <p className="title-container__subtitle">
-              Enter your State, Commodity Type, Quantity, Delivery Date, THC Level, Collateral # of Tokens
-               and receive back Buyer Name and Confirmed Token Amount
+              Please enter: Location, Product Type, Quantity, Delivery Date, Quality Levels, Offering price (# of Tokens)
+
+<br />Recieve back: Buyer Name and Confirmed Token Amount
               </p>
             </div>
         )
