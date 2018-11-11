@@ -1,0 +1,19 @@
+HTTP 200 OK
+Allow: GET, HEAD, OPTIONS
+Content-Type: application/json
+Vary: Accept
+
+{
+    "amount_base": 0.012201064,
+    "amount_quote": 1.55191955,
+    "timestamp": 1540066689.754499,
+    "price": 127.19542738,
+    "pair": {
+        "base": "BTC",
+        "quote": "LTC"
+    },
+    "max_amount_base": 0.01500133,
+    "max_amount_quote": 1.89407887,
+    "min_amount_base": 0.001,
+    "min_amount_quote": 0.18328224
+}
